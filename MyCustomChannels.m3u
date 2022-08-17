@@ -86,14 +86,16 @@ http://uk7.internet-radio.com:8313/
 http://us3.internet-radio.com:8169/live
 #EXTINF:01 group-title="Music",Best EDM Radio
 http://stream.radiobest.eu:8000/192
+#EXTINF:01 group-title="Music",Chill Radio
+https://rfcmedia.streamguys1.com/chill.mp3
 #EXTINF:01 group-title="Music",Chillstep
 http://188.165.152.45:8000/;stream.mp3
 #EXTINF:01 group-title="Music",Chillstep Radio
 https://live.radiospinner.com/chillstep-64
 #EXTINF:01 group-title="Music",Chillout Dreams Radio
 https://live.radiospinner.com/chillout-dreams-64
-#EXTINF:01 group-title="Music",Planet LoFi
-http://198.245.60.88:8080/listen.pls?sid=1
+#EXTINF:01 group-title="Music",LoFi
+https://streams.ilovemusic.de/iloveradio17.mp3
 #EXTINF:01 group-title="Music",Video Game Music
 https://centova.listenon.in/proxy/gamepad/stream?nowx=1660716018718
 #EXTINF:01 group-title="Music",Avatars Radio
