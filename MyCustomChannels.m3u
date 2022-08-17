@@ -1,0 +1,148 @@
+#EXTM3U
+
+#EXTINF:01 group-title="News",FOX 9 News Minneapolis KMSP
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="News",NBC 11 Minneapolis MN (KARE) (1080p)
+https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
+#EXTINF:01 group-title="Weather",Weather Channel Live
+https://weather.newscdn.org/NkaaRqR2sYf5vynsJGz6kg==,1660761315/1253851229/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Outdoor",STIRR PursuitUp (720p)
+https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
+#EXTINF:-1 tvg-id="WaypointTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6r2YHtv.png" group-title="Outdoor",Waypoint TV (1080p)
+https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://www.indyleaguefishing.com/img/Logos/SponorHome/wired2fish.png" group-title="Outdoor",Wired2Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="HuntChannel.us" status="online" group-title="Outdoor",Hunt Channel (1080p)
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+
+#EXTINF:-1 tvg-id="I22.3.35576.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTRf/PBSKids_625x625.png" group-title="Kids",PBS Kids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8?CatOTA21117&NationalWebstream
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Music" radio="true",Kids Club Radio
+https://stream.revma.ihrhls.com/zc6551/hls.m3u8
+
+#EXTINF:01 group-title="Local Radio",88.9 MPR
+https://nis.stream.publicradio.org/nis.aac
+#EXTINF:01 group-title="Local Radio",Spirit 92.9
+https://ice24.securenetsystems.net/KKJM
+#EXTINF:01 group-title="Local Radio",94.1 KXLP Classic Rock
+https://ice24.securenetsystems.net/KXLP
+#EXTINF:01 group-title="Local Radio",98.1 Minnesota's New Country
+https://prod-54-234-125-227.wostreaming.net/townsquare-wwjofmaac-hlsc3.m3u8
+#EXTINF:01 group-title="Local Radio",Wild Country 99 WILD
+https://26283.live.streamtheworld.com/KZPKAAC.aac
+#EXTINF:01 group-title="Local Radio",99.3 KXRZ
+https://19303.live.streamtheworld.com/KXRZFM_SC?us_privacy=1YNY
+#EXTINF:01 group-title="Local Radio",99.9 Lite FM
+https://17643.live.streamtheworld.com/KCMLAAC.aac?listening-from-radio-garden=1660717378
+#EXTINF:01 group-title="Local Radio",KIKV 100.7 KIK FM
+https://18423.live.streamtheworld.com/KIKVFM.mp3
+#EXTINF:01 group-title="Local Radio",KTIG FM 102.7 The Word
+https://mcbi.streamguys1.com/live2?listening-from-radio-garden=1660717068
+#EXTINF:01 group-title="Local Radio",105.5 The River
+https://prod-34-145-28-222.wostreaming.net/alphacorporate-krbifmaac-imc4?us_privacy=1YNY
+
+#EXTINF:01 group-title="Music",Country Christian Radio
+http://s43.myradiostream.com:18288/listen.mp3
+#EXTINF:01 group-title="Music",Rock Christian Radio
+https://s4.myradiostream.com/:4180/listen.mp3?nocache=1660712801
+#EXTINF:01 group-title="Music",Journey-Radio
+https://usa13.fastcast4u.com/proxy/dikell00?mp=/1
+#EXTINF:01 group-title="Music",Spirit FM
+https://positivealtradio.streamguys1.com/wrxt
+#EXTINF:01 group-title="Music",Modern Christian Radio
+https://securestreams.reliastream.com:1072
+#EXTINF:01 group-title="Music",Corazon Christian Radio
+http://198.27.66.225:8522/stream
+#EXTINF:01 group-title="Music",Power Of The Cross Radio
+http://us1.internet-radio.com:8107/
+#EXTINF:01 group-title="Music",WAIY Christian Radio
+http://ca.radioboss.fm:8125/waiy
+
+#EXTINF:01 group-title="Music",Todays Best Country
+http://us3.internet-radio.com:8038/
+#EXTINF:01 group-title="Music",Country Hit Radio
+https://live.radiospinner.com/cntryht-64
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png" group-title="Music" radio="true",Dash Radio | 80's Hair Band Rock
+https://ice55.securenetsystems.net/DASH24
+#EXTINF:01 group-title="Music",80s Rock Hits
+https://live.radiospinner.com/80srckhts-64
+#EXTINF:01 group-title="Music",80s Hits
+https://live.radiospinner.com/80hs-64
+#EXTINF:01 group-title="Music",90s Rock Hits
+https://live.radiospinner.com/90srckhts-64
+#EXTINF:01 group-title="Music",Pop Rock Hit Radio
+https://live.radiospinner.com/pprck-64
+
+#EXTINF:01 group-title="Music",Shoegaze
+http://uk7.internet-radio.com:8313/
+#EXTINF:01 group-title="Music",Healing Music Radio
+http://us3.internet-radio.com:8169/live
+#EXTINF:01 group-title="Music",Best EDM Radio
+http://stream.radiobest.eu:8000/192
+#EXTINF:01 group-title="Music",Chillstep
+http://188.165.152.45:8000/;stream.mp3
+#EXTINF:01 group-title="Music",Chillstep Radio
+https://live.radiospinner.com/chillstep-64
+#EXTINF:01 group-title="Music",Chillout Dreams Radio
+https://live.radiospinner.com/chillout-dreams-64
+#EXTINF:01 group-title="Music",Planet LoFi
+http://198.245.60.88:8080/listen.pls?sid=1
+#EXTINF:01 group-title="Music",Video Game Music
+https://centova.listenon.in/proxy/gamepad/stream?nowx=1660716018718
+#EXTINF:01 group-title="Music",Avatars Radio
+http://us3.internet-radio.com:8324/
+#EXTINF:01 group-title="Music",Zen Relaxation Radio
+https://live.radiospinner.com/relzen-64
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Music" radio="true",Lullabies Radio
+https://stream.revma.ihrhls.com/zc7249/hls.m3u8
+#EXTINF:-1 tvg-id="Vevo70s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Pluto TV VEVO 70's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="Vevo80s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo90s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music",Pluto TV VEVO 90's (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="Vevo2K.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music",Pluto TV VEVO 2K (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="VevoCountry.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="Music",Pluto TV VEVO Country (1080p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="TheCountryNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Country_Network_Logo.png" group-title="Music",The Country Network (1080p)
+https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
+
+#EXTINF:-1 tvg-id="TBNEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/TBN_logo_2015.jpg/512px-TBN_logo_2015.jpg" group-title="Religious",TBN US (1080p) [Not 24/7]
+https://api.new.livestream.com/accounts/27460990/events/8266920/live.m3u8
+
+#EXTINF:-1 tvg-id="5877ac8cb791f4eb4a140d81" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="TV Channels",US | Food TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="ThisOldHouse.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="TV Channels",Pluto TV This Old House (720p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d51e791b7dba3b2ae990ab2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=618&terminate=false&userId=
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Comedy",STIRR Comedy Dynamics (1080p)
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+
+#EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="TV Channels",The Bob Ross Channel (1080p)
+https://bobross-xumous-ingest.cinedigm.com/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVCMTWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Movies",Pluto TV CMT Westerns (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
+#EXTINF:-1 tvg-id="CineLifeHD.us" tvg-name="CineLife HD" tvg-country="US" tvg-language="English" tvg-logo="https://www.arthouseconvergence.org/wp-content/uploads/2015/12/cinelife.png" group-title="Movies",CineLife HD
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="USBB19000017U" tvg-logo="https://od.lk/s/MF8yMzUxNTAyNThf/Hallmark-More_760x760.png" group-title="Movies",Hallmark Movies & More
+https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8?l1br3&date0206&SsgEPG&SsgBaseLink&catValentines
+
+#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RoosterTeethTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3o9cG76.png" group-title="Gaming",Rooster Teeth TV (1080p)
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://gamesfiends.com/wp-content/uploads/2012/10/IGN_logo.jpg" group-title="Gaming",IGN
+https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&channelId=5eea605474085f0040ddc77c&uid=1g68m35ti-fnfd-a28-r301-7ypm2zjxiif/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1 tvg-id="localnow_Treehouse Gaming" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4cc385443941b411fe13c" tvg-name="Treehouse Gaming" group-title="Gaming",Treehouse Gaming
+https://ov.ottera.tv/live/master.m3u8?channel=sadsea_tn
