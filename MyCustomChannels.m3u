@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="DistroTV_5 Eyewitness News KSTP Minneapolis-St. Paul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="News",5 Eyewitness News KSTP Minneapolis-St.Paul
 https://dai.google.com/linear/hls/event/zAapA22nTIejyPtg5sQ6Lg/master.m3u8
 
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="Live News",KMSP FOX 9 News Minneapolis
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
