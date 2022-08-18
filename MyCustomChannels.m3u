@@ -26,8 +26,8 @@ https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:-1 tvg-id="I22.3.35576.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYxNjkxMTRf/PBSKids_625x625.png" group-title="Kids",PBS Kids
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8?CatOTA21117&NationalWebstream
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Music" radio="true",Kids Club Radio
-https://stream.revma.ihrhls.com/zc6551/hls.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Music" radio="true",Kids Cartoon Songs Radio
+https://live.radiospinner.com/crtnsngs-64
 
 #EXTINF:01 group-title="Local Radio",88.9 MPR
 https://nis.stream.publicradio.org/nis.aac
