@@ -51,8 +51,8 @@ https://17643.live.streamtheworld.com/KCMLAAC.aac?listening-from-radio-garden=16
 https://18423.live.streamtheworld.com/KIKVFM.mp3
 #EXTINF:01 group-title="Local Radio",KTIG FM 102.7 The Word
 https://mcbi.streamguys1.com/live2?listening-from-radio-garden=1660717068
-#EXTINF:01 group-title="Local Radio",105.5 The River
-https://prod-34-145-28-222.wostreaming.net/alphacorporate-krbifmaac-imc4?us_privacy=1YNY
+#EXTINF:01 group-title="Local Radio",105.5 Total Country
+https://prod-34-235-158-241.wostreaming.net/milestoneradio-klcifmaac-hlsc1.m3u8
 
 #EXTINF:01 group-title="Music",Country Christian Radio
 https://ice5.securenetsystems.net/KJIC
@@ -117,6 +117,8 @@ https://live.radiospinner.com/chillstep-64
 https://live.radiospinner.com/chillout-dreams-64
 #EXTINF:01 group-title="Music",LoFi
 https://streams.ilovemusic.de/iloveradio17.mp3
+#EXTINF:01 group-title="Music",Slow RnB
+https://radio.garden/api/ara/content/listen/-VEYhtJW/channel.mp3?1661304264552
 #EXTINF:01 group-title="Music",Video Game Music
 https://centova.listenon.in/proxy/gamepad/stream?nowx=1660716018718
 #EXTINF:01 group-title="Music",CinimiX Movie Music
