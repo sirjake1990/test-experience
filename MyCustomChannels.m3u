@@ -12,11 +12,11 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Cowboys v Buccaneers
-http://elinaskvortsova.s3-accelerate.amazonaws.com/cowboys_720p60.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Seahawks v Broncos
+http://isuappwsl.azureedge.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-http://weaksllspe.azureedge.net/live/NFL1/chunks.m3u8
+https://video-weaver.ord02.hls.live-video.net/v1/playlist/CqIFn5siICwpy5qwi-I7vEAydGZhNpyW9A4JKyguiSzycrpFiDCGZquVB8Pvfajqt4eZzlN5Joc82JUHw-c2JjYrF8TjPTnec1ar4tWjuJIe1ZBhuE26gOEO1_S72wuwSNocMS56062SprHNSCU-V91NWeUs4XDtG8N4qTqQk_kBtmY04br7zR0eQrOUodUXfSwzZ11JUAdPXbgJD62VT0HlyptGJCY_3m6McWb5WNcQ7cf8-RFbU68-DFTRyJq3-PLX9jjHh1nOGD5YFGzoNTk5QxkhBc3_8F-PPj70IY0r4TmocINYsd83plUU3z-rffr8nLEhu7J-4j9lpaHsYvNHjPaFzW1V_cHBGbDRbomtzYNnAUnRuu9XCQwg519XbhqS7YNgXAfBBj-uY_ZRso4ImsY-mwjRBIFbMtgr0xvNkXU2Zjyu9iZX0Qz0NVHqTBSzjrdFPxSt3if0G9NRuou_RW2lTnvxoYXXLMHrfwbJAIrlsQltTMUnGmKcoAejS6u-N_Z1V7dzZOUfveZTi2uIi9ZZ-v5iSqjitojLv1L8Q7enZOP2qDIZS0BhvUX10GqzVfRi5Mwn49WLqjGTK6NACq52DFLBFFs5CfUDIETjb9gJPx1NqeydsAs9iuGA1lb72veTbxxoBIQaX1iyglAqExiwOzYfhuAB1xuGnpoBeYyhzvYMMM57pDkKCDWTOmVAfVClVE2LC46BV_6d7JuPctr0tiKPwPd95aqbSBykmJkqvw_IAwLBTJ2kbTCtNzf2TSXd9gWnm6z2whTe0Tg5II-hIGvdFjBcuGSMluQ8D1jgoCUr2cFednfBldr5W2QA5XV3pTmgsH73vrEgAWo3bsdxuSvIgqDNM74emHhBOEaVLjclBnEPLfEGCDILDdbMoCUaDAl0UvYfPtZBmkP22CABKgl1cy1lYXN0LTIw0wQ.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 http://elinaskvortsova.s3-accelerate.amazonaws.com/redzone_1080p30.m3u8
