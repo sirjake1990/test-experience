@@ -16,7 +16,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 http://elinaskvortsova.s3-accelerate.amazonaws.com/cowboys_720p60.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-http://dkiol.azureedge.net/scripts/NTE2OA==/1080p.m3u8
+http://weaksllspe.azureedge.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 http://elinaskvortsova.s3-accelerate.amazonaws.com/redzone_1080p30.m3u8
