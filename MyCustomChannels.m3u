@@ -13,10 +13,10 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Bears at Packers
-https://parelmxxxxx.s3-accelerate.amazonaws.com/packers_1080p.m3u8
+http://dasdsadsadasd.azureedge.net/scripts/NTIyOQ==/1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-http://cdnksess.azureedge.net/scripts/NTIyOQ==/1080p.m3u8
+https://d1zn4guleegett.cloudfront.net/hls/packers/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 http://weakfred1.azureedge.net/live/Redzone/chunks.m3u8
