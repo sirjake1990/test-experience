@@ -12,11 +12,14 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Bears at Packers
-http://dasdsadsadasd.azureedge.net/scripts/NTIyOQ==/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Vikings at Eagles
+http://d3qnz0iuuwixul.cloudfront.net/hls/philadelphia/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://d1zn4guleegett.cloudfront.net/hls/packers/chunks.m3u8
+http://cdn2.hdstreamss.club/live/ch2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
+http://weakstyea.azureedge.net/live/NFL2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 http://weakfred1.azureedge.net/live/Redzone/chunks.m3u8
@@ -132,8 +135,6 @@ https://radio.garden/api/ara/content/listen/-VEYhtJW/channel.mp3?1661304264552
 https://centova.listenon.in/proxy/gamepad/stream?nowx=1660716018718
 #EXTINF:01 group-title="Music",CinimiX Movie Music
 https://radio.garden/api/ara/content/listen/NrSMYFey/channel.mp3?1660848353670
-#EXTINF:01 group-title="Music",Avatars Radio
-http://us3.internet-radio.com:8324/
 #EXTINF:01 group-title="Music",Healing Music Radio
 http://us3.internet-radio.com:8169/live
 #EXTINF:01 group-title="Music",Zen Relaxation Radio
