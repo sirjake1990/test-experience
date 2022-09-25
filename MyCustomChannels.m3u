@@ -13,13 +13,13 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Lions vs Vikings
-https://rideflyco.s3-accelerate.amazonaws.com/vikings_1080p.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/vikings/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://rideflyco.s3-accelerate.amazonaws.com/vikings_1080p.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/vikings/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://rideflyco.s3-accelerate.amazonaws.com/vikings_1080p.m3u8
+https://d1ogru1pfvpu3c.cloudfront.net/hls/vikings/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 http://lion.azureedge.net/scripts/NTMwMQ==/1080p.m3u8
