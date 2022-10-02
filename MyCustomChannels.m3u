@@ -5,24 +5,30 @@ https://dai.google.com/linear/hls/event/zAapA22nTIejyPtg5sQ6Lg/master.m3u8
 
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
+
+#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis 2
+https://dcs-live-uc1.mp.lura.live/server/play/p0dr1kQiGl4wtzj1/rendition.m3u8?track=video-1&anvsid=m177626909-nfb738784ff7a0e7de0571f46c61a0e78
+
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="News",NBC 11 Minneapolis MN (KARE) (1080p)
 https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
+
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", 49ers at Broncos
-http://saslalsytya.azureedge.net/live/Broncos/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Vikings vs Saints
+http://hgthklng.azureedge.net/live/Saints/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-http://wms453.azureedge.net/hls/broncos/chunks.m3u8
+http://mastasth1.azureedge.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-http://cacksyy12.azureedge.net/streams/Broncos/chunks.m3u8
+http://d1uputr6uwawf6.cloudfront.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
-http://lion.azureedge.net/scripts/NTMwMQ==/1080p.m3u8
+https://h1.ustvgo.la/NFLRZ/myStream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yNy8yMDIyIDU6MTg6NTkgQU0maGFzaF92YWx1ZT00ZFVLb2xubDVNTDRRbGYvUDk0c21RPT0mdmFsaWRtaW51dGVzPTI0MA==
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Outdoor",STIRR PursuitUp (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
@@ -143,6 +149,8 @@ https://live.radiospinner.com/relzen-64
 https://radio.garden/api/ara/content/listen/-fOUipEx/channel.mp3?1660844403261
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Music" radio="true",Lullabies Radio
 https://stream.revma.ihrhls.com/zc7249/hls.m3u8
+#EXTINF:01 group-title="Holiday Music",The Christmas Station
+https://stream.radio.co:80/s63541ce9b/listen
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Pluto TV VEVO 70's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s (720p)
@@ -167,6 +175,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Comedy",STIRR Comedy Dynamics (1080p)
 https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Comedy",Pluto Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca671f215a62078d2ec0abf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=465&terminate=false&userId=
 
 #EXTINF:-1 tvg-id="TheBobRossChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ef396d1be50a3000722808b/colorLogoPNG.png" group-title="TV Channels",The Bob Ross Channel (1080p)
 https://bobross-xumous-ingest.cinedigm.com/master.m3u8
