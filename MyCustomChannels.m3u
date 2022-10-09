@@ -15,11 +15,11 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Bears at Vikings
-http://oloes.azureedge.net/live/NTQ4Ng==/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Benglas vs Ravens
+https://marekpiszczek06.s3-accelerate.amazonaws.com/bills_720p60.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-http://trsseh.azureedge.net/live/NTQ4Ng==/chunks.m3u8
+https://h5.ustvgo.la/NBC/myStream/chunks.m3u8?nimblesessionid=177316949&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDExOjUwOjM3IFBNJmhhc2hfdmFsdWU9UWZHNWlMT3BLS0ExZFBQZjQrZ2ljdz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
 https://ksiuda753.s3-accelerate.amazonaws.com/vikings_720p60.m3u8
