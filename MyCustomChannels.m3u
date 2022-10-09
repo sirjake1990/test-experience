@@ -6,9 +6,6 @@ https://dai.google.com/linear/hls/event/zAapA22nTIejyPtg5sQ6Lg/master.m3u8
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
 
-#EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis 2
-https://dcs-live-uc1.mp.lura.live/server/play/p0dr1kQiGl4wtzj1/rendition.m3u8?track=video-1&anvsid=m177626909-nfb738784ff7a0e7de0571f46c61a0e78
-
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -18,20 +15,20 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Rams at 49rs
-http://mamsktt1.azureedge.net/live/NFL1/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Bears at Vikings
+http://oloes.azureedge.net/live/NTQ4Ng==/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-http://cragsqugsu1.azureedge.net/streams/REDZONE/chunks.m3u8
+http://trsseh.azureedge.net/live/NTQ4Ng==/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-http://loseses.azureedge.net/live/NTM3NA==/chunks.m3u8
+https://ksiuda753.s3-accelerate.amazonaws.com/vikings_720p60.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
-http://lkmhnhhjs.azureedge.net/live/redzone/chunks.m3u8
+https://ksiuda753.s3-accelerate.amazonaws.com/redzone_720p60.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone 2
-http://waazs.azureedge.net/live/NTM2Nw==/chunks.m3u8
+http://cra2jshjdh.azureedge.net/streams/REDZONE/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Outdoor",STIRR PursuitUp (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
