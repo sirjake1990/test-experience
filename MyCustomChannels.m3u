@@ -19,7 +19,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 https://marekpiszczek06.s3-accelerate.amazonaws.com/bills_720p60.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://h5.ustvgo.la/NBC/myStream/chunks.m3u8?nimblesessionid=177316949&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDExOjUwOjM3IFBNJmhhc2hfdmFsdWU9UWZHNWlMT3BLS0ExZFBQZjQrZ2ljdz09JnZhbGlkbWludXRlcz0yNDA=
+https://h2.ustvgo.la/NBC/myStream/chunks.m3u8?nimblesessionid=287954438&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOS8yMDIyIDExOjUxOjMyIFBNJmhhc2hfdmFsdWU9VGZqS1YzbXFXNTgzZkVjZllaODJiZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
 https://ksiuda753.s3-accelerate.amazonaws.com/vikings_720p60.m3u8
