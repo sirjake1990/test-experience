@@ -15,8 +15,8 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Cardinals at Vikings
-http://nhttrfnk.azureedge.net/live/Vikings/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Bills vs Packers
+https://h2.ustvgo.la/NBC/myStream/chunks.m3u8?nimblesessionid=300152434&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMiAxMTo0OTo0MyBQTSZoYXNoX3ZhbHVlPUVYUUMrSU5JRTU0K3M2TitTN0IyaHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
 http://crackqjsh.azureedge.net/streams/Vikings/chunks.m3u8
