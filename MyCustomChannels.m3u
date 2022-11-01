@@ -15,11 +15,11 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Bills vs Packers
-http://salsytajsng.azureedge.net/live/Bills/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Bengals vs Browns
+http://gvfcasvxxdb.azureedge.net/live/Browns/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-http://markkyjhsu.azureedge.net/live/NFL13/chunks.m3u8
+http://crackqjsh.azureedge.net/streams/NFL/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
 http://crackqjsh.azureedge.net/streams/Bills/chunks.m3u8
