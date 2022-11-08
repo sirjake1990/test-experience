@@ -19,7 +19,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 http://1ahdgay.azureedge.net/live/Saints/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-http://amksatysj.azureedge.net/live/NFL1/chunks.m3u8?Connection=keep-alive
+https://clarkeh699.s3.amazonaws.com/76ers.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
 http://crackqjsh.azureedge.net/streams/Bills/chunks.m3u8
