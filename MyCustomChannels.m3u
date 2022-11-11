@@ -15,14 +15,14 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Ravens at Saints
-http://1ahdgay.azureedge.net/live/Saints/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
+http://1ahdgay.azureedge.net/live/Panthers/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://clarkeh699.s3.amazonaws.com/76ers.m3u8
+http://cracksghh.azureedge.net/streams/REDZONE/chunks.m3u8?connection=keepalive
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-http://crackqjsh.azureedge.net/streams/Bills/chunks.m3u8
+https://gahuiysuiwi.s3.amazonaws.com/espn_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 https://h2.ustvgo.la/NFLRZ/myStream/chunks.m3u8?nimblesessionid=299895204&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMiA1OjMxOjIyIFBNJmhhc2hfdmFsdWU9Um84VnJKTURXRTBaNEFyMEpSQk5mQT09JnZhbGlkbWludXRlcz0yNDA=
