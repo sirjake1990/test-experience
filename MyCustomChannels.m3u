@@ -16,13 +16,13 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://cuiomrewuiomreat198.s3.amazonaws.com/redzone_720p.m3u8
+https://hgdsxzv.azureedge.net/live/FOX/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://wswanata.azureedge.net/live/NFL1/chunks.m3u8
+https://stream10.allsportsdaily.xyz/hls/FOX.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://hgdsxzv.azureedge.net/live/Packers/chunks.m3u8
+https://wswanata.azureedge.net/live/weakstreamsFOX/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 https://h2.ustvgo.la/NFLRZ/myStream/chunks.m3u8?nimblesessionid=299895204&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAyMiA1OjMxOjIyIFBNJmhhc2hfdmFsdWU9Um84VnJKTURXRTBaNEFyMEpSQk5mQT09JnZhbGlkbWludXRlcz0yNDA=
