@@ -16,10 +16,10 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://murthyneeraj231.s3.amazonaws.com/rockets_720.m3u8
+https://k41hedlund.s3.amazonaws.com/cavaliers_720p60.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://murthyneeraj231.s3.amazonaws.com/rockets_1080.m3u8
+https://1ahdgay.azureedge.net/live/Patriots/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
 https://murthyneeraj231.s3.amazonaws.com/rockets_240.m3u8
