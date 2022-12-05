@@ -16,7 +16,7 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://k41hedlund.s3.amazonaws.com/knicks_720p60.m3u8
+https://k41hedlund.s3.amazonaws.com/thunder_720p60.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
 https://webdi.openhd.lol/ddy4/premium26/tracks-v1a1/mono.m3u8
