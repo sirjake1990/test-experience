@@ -16,13 +16,13 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://weaksdbvsgdf.azureedge.net/live/NFL1/chunks.m3u8
+https://waaksterasn.azureedge.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://weaksdbvsgdf.azureedge.net/live/NFL1/chunks.m3u8
+https://waaksterasn.azureedge.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://weaksdbvsgdf.azureedge.net/live/NFL1/chunks.m3u8
+https://k41hedlund.s3.amazonaws.com/celtics_720p60.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 https://k41hedlund.s3.amazonaws.com/cavaliers2_720p60.m3u8
