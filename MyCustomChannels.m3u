@@ -19,10 +19,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 https://wkasyetkask.azureedge.net/live/NFL6/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://ovcaricgordan.s3.amazonaws.com/lions_1280x720_6500k.m3u8
+https://ovcaricgordan.s3.amazonaws.com/lions_768x432_1200k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://ovcaricgordan.s3.amazonaws.com/lions_960x540_2000k.m3u8
+https://ovcaricgordan.s3.amazonaws.com/lions_1280x720_3300k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 https://k41hedlund.s3.amazonaws.com/cavaliers2_720p60.m3u8
