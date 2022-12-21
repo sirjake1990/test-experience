@@ -56,10 +56,12 @@ https://nis.stream.publicradio.org/nis.aac
 https://ice24.securenetsystems.net/KKJM
 #EXTINF:01 group-title="Local Radio",94.1 KXLP Classic Rock
 https://ice24.securenetsystems.net/KXLP
+#EXTINF:01 group-title="Local Radio",94.1 KFML Little Falls Rock Radio
+https://ice23.securenetsystems.net/KFML
 #EXTINF:01 group-title="Local Radio",96.7 KDMA Montevideo Country
 https://radio.garden/api/ara/content/listen/bVQtv9ST/channel.mp3?1660855227951
 #EXTINF:01 group-title="Local Radio",98.1 Minnesota's New Country
-https://prod-54-234-125-227.wostreaming.net/townsquare-wwjofmaac-hlsc3.m3u8
+https://live.wostreaming.net/manifest/townsquare-wwjofmaac-hlsc3.m3u8
 #EXTINF:01 group-title="Local Radio",Wild Country 99 WILD
 https://26283.live.streamtheworld.com/KZPKAAC.aac
 #EXTINF:01 group-title="Local Radio",99.3 KXRZ
@@ -71,7 +73,7 @@ https://18423.live.streamtheworld.com/KIKVFM.mp3
 #EXTINF:01 group-title="Local Radio",KTIG FM 102.7 The Word
 https://mcbi.streamguys1.com/live2?listening-from-radio-garden=1660717068
 #EXTINF:01 group-title="Local Radio",105.5 Total Country
-https://prod-34-235-158-241.wostreaming.net/milestoneradio-klcifmaac-hlsc1.m3u8
+https://live.wostreaming.net/direct/alphacorporate-krbifmaac-imc4?source=TuneIn&gdpr=0&us_privacy=1YNY
 
 #EXTINF:01 group-title="Music",Country Christian Radio
 https://ice5.securenetsystems.net/KJIC
@@ -87,30 +89,16 @@ https://securestreams.reliastream.com:1072
 http://198.27.66.225:8522/stream
 #EXTINF:01 group-title="Music",Power Of The Cross Radio
 http://us1.internet-radio.com:8107/
-#EXTINF:01 group-title="Music",WAIY Christian Radio
-http://ca.radioboss.fm:8125/waiy
 
-#EXTINF:01 group-title="Music",Todays Best Country
-http://us3.internet-radio.com:8038/
-#EXTINF:01 group-title="Music",Country Hit Radio
-https://live.radiospinner.com/cntryht-64
-#EXTINF:01 group-title="Music",Nashville Redneck Country
-https://radio.garden/api/ara/content/listen/V6IJdO4H/channel.mp3?1660851917372
 #EXTINF:01 group-title="Music",Classic Country
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFRBAMAAC.aac
 #EXTINF:01 group-title="Music",Heartland Radio
 https://ais-edge09-live365-dal02.cdnstream.com/a00584?listening-from-radio-garden=1660854998
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png" group-title="Music" radio="true",Dash Radio | 80's Hair Band Rock
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png" group-title="Music" radio="true",80's Hair Band Rock | Dash Radio
 https://ice55.securenetsystems.net/DASH24
 #EXTINF:01 group-title="Music",80s Rock Hits
 https://live.radiospinner.com/80srckhts-64
-#EXTINF:01 group-title="Music",80s Hits
-https://live.radiospinner.com/80hs-64
-#EXTINF:01 group-title="Music",90s Rock Hits
-https://live.radiospinner.com/90srckhts-64
-#EXTINF:01 group-title="Music",Pop Rock Hit Radio
-https://live.radiospinner.com/pprck-64
 #EXTINF:01 group-title="Music",Alt Rock Radio
 https://radio.garden/api/ara/content/listen/x7KpqaZ8/channel.mp3?1660854232081
 
@@ -128,16 +116,12 @@ http://radio.garden/api/ara/content/listen/tjj2Oq0d/channel.mp3?1660847528919
 https://radiofg.impek.com/fgd?.mp3&listening-from-radio-garden=1660848438
 #EXTINF:01 group-title="Music",Chill Radio
 https://rfcmedia.streamguys1.com/chill.mp3
-#EXTINF:01 group-title="Music",Chillstep
-http://188.165.152.45:8000/;stream.mp3
 #EXTINF:01 group-title="Music",Chillstep Radio
 https://live.radiospinner.com/chillstep-64
 #EXTINF:01 group-title="Music",Chillout Dreams Radio
 https://live.radiospinner.com/chillout-dreams-64
 #EXTINF:01 group-title="Music",LoFi
 https://streams.ilovemusic.de/iloveradio17.mp3
-#EXTINF:01 group-title="Music",Relaxing Beats
-http://radio.garden/api/ara/content/listen/WKTcIyKi/channel.mp3
 #EXTINF:01 group-title="Music",Slow RnB
 https://radio.garden/api/ara/content/listen/-VEYhtJW/channel.mp3?1661304264552
 #EXTINF:01 group-title="Music",Video Game Music
