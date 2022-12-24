@@ -16,13 +16,13 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://crenshawkeely660.s3.us-west-1.amazonaws.com/vikings_1080p30.m3u8
+https://webdi.openhd.lol/cdn/5jlfsLY0H3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://weak.nonsavefiles.xyz/live/NFL1/storage.m3u8
+https://ddd.openhd.lol/lb/5jlfsLY0H3/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://ovcaricgordan.s3.amazonaws.com/lions_1280x720_3300k.m3u8
+https://walsyetasg.azureedge.net/live/NFL4/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 https://storage.googleapis.com/4klive/redzone/mux_video/index-1.m3u8
