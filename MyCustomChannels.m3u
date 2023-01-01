@@ -28,7 +28,7 @@ https://wwtrbsb.azureedge.net/live/NFL1/chunks.m3u8
 https://storage.googleapis.com/projectz90/redzone/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone 2
-https://demahinleonid.s3.us-west-1.amazonaws.com/group_960x540_2000k.m3u8
+https://footr.azureedge.net/scripts/Njg2Ng==/1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Outdoor",STIRR PursuitUp (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
