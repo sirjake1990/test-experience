@@ -16,13 +16,13 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://yfsoileauclucks.s3.us-east-2.amazonaws.com/nfl_1280x720_3300k.m3u8
+https://hdstreamss.club:30443/live/ch28/chunks.m3u8?nimblesessionid=86192&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjMgOToxMjoxMiBQTSZoYXNoX3ZhbHVlPTJBWDl1QWtwbkQvY3FDeWNHaENGc1E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE5OC45OC4yMTQuMjU1JnN0cm1fbGVuPTU=
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://yfsoileauclucks.s3.us-east-2.amazonaws.com/nfl_1280x720_3300k.m3u8
+https://wpasyscdas.azureedge.net/live/NFL12/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://wwtrbsb.azureedge.net/live/NFL1/chunks.m3u8
+http://anews.t4news.live/hls/A3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 https://storage.googleapis.com/projectz90/redzone/manifest.m3u8
