@@ -19,10 +19,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 https://hdstreamss.club:30443/live/ch28/chunks.m3u8?nimblesessionid=86192&wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjMgOToxMjoxMiBQTSZoYXNoX3ZhbHVlPTJBWDl1QWtwbkQvY3FDeWNHaENGc1E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE5OC45OC4yMTQuMjU1JnN0cm1fbGVuPTU=
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://wpasyscdas.azureedge.net/live/NFL12/chunks.m3u8
+https://mmaksjja.azureedge.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://yttuiir.azureedge.net/scripts/Njg3OQ==/1080p.m3u8
+https://nmkjnhgb.azureedge.net/live/Bengals/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 https://storage.googleapis.com/projectz90/redzone/manifest.m3u8
