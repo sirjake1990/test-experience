@@ -16,19 +16,19 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://markkuku.azureedge.net/live/NFL2/chunks.m3u8
+https://ccacsajja3.azureedge.net/streams/Bears/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://crackuxig.azureedge.net/streams/Bears/chunks.m3u8
+https://mamsmja1.azureedge.net/live/NFL2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
 https://stream11.allsportsdaily.xyz/hls/vik_hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
-https://markkuku.azureedge.net/live/Redzone/chunks.m3u8
+https://mamsmja1.azureedge.net/live/Redzone/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone 2
-https://crackuxig.azureedge.net/streams/NFL/chunks.m3u8
+https://ccacsajja3.azureedge.net/streams/NFL/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Outdoor",STIRR PursuitUp (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
