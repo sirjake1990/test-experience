@@ -16,13 +16,13 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://cccacsjak.azureedge.net/streams/Bears/chunks.m3u8
+https://wwppskskj.azureedge.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://masmam12.azureedge.net/live/NFL2/chunks.m3u8
+https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/espn_960x540_2000k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://biisjishlll.azureedge.net/live/Bears/chunks.m3u8
+https://nflarcadia.xyz/hls/n14.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
 https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/76ers_1280x720_3300k.m3u8
