@@ -22,10 +22,10 @@ https://wwppskskj.azureedge.net/live/NFL1/chunks.m3u8
 https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/espn_960x540_2000k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://nflarcadia.xyz/hls/n14.m3u8
+https://stream11.allsportsdaily.xyz/hls/lio_hd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
-https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/76ers_1280x720_3300k.m3u8
+https://stream11.allsportsdaily.xyz/hls/lio.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone 2
 https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/76ers_960x540_2000k.m3u8
