@@ -16,19 +16,19 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://wwppskskj.azureedge.net/live/NFL1/chunks.m3u8
+https://cdfse.azureedge.net/scripts/Njk1Nw==/1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/espn_960x540_2000k.m3u8
+https://wwettgsga.azureedge.net/live/NFL1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://cbvafcdsp.azureedge.net/live/Packers/chunks.m3u8
+https://judemiguel162.s3.amazonaws.com/main_960x540_2000k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone
-https://ammskak12.azureedge.net/live/NFL14/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - Football Backup 3
+https://judemiguel162.s3.amazonaws.com/main_1280x720_5000k.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - NFL Redzone 2
-https://ccatctshas.azureedge.net/streams/Packers/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - Football Backup 4
+http://cdn.raino.xyz/hls/stream17.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Outdoor",STIRR PursuitUp (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
