@@ -16,22 +16,22 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://euerysddfgtsdonestream.1stream.one/scripts/NzAwNQ==/1080p.m3u8
+https://wanaty111334.azureedge.net/live/NFL2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://sjackhwp.azureedge.net/live/NFL2/chunks.m3u8
+https://hudachforrest901.s3.amazonaws.com/main_768x432_1200k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://hudachforrest901.s3.amazonaws.com/main_1280x720_5000k.m3u8
+https://wanaty111223.azureedge.net/live/49ers/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - Football Backup 3
-http://cdn2.cyclingnews.live/abr/abr-stream2/hls/stream2_720p/chunks.m3u8?nimblesessionid=16951418&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIzIDE6MDQKOjU4CiBBTSZoYXNoX3ZhbHVlPVZMQmI2bVVzeThWRkFNUVo5RU9xSGc9PSZ2YWxpZG1pbnV0ZXM9MTIwJmlkPTE5Mi4xNjguMTAwLjE0MCZzdHJtX2xlbj00
+https://mar112dd.azureedge.net/live/NFL2/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - Football Backup 4
 https://hudachforrest901.s3.amazonaws.com/main_1280x720_5000k.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - Football Backup 5
-https://hudachforrest901.s3.amazonaws.com/main_960x540_2000k.m3u8
+https://ckckacskiak.azureedge.net/streams/49ers/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Outdoor",STIRR PursuitUp (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
