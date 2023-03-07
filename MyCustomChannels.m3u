@@ -15,24 +15,6 @@ https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Channel
-https://wwepksa.azureedge.net/live/NFL1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Main Football Backup
-https://kkcjac1211.azureedge.net/streams/NFL/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football", Football Backup 2
-https://mmayysaj.azureedge.net/live/NFL1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - Football Backup 3
-https://shahjsbv.azureedge.net/live/Eagles/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - Football Backup 4
-https://wwueyowp.azureedge.net/live/NFL2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Football",Football - Football Backup 5
-https://cal.p2plink.xyz:2443/hls/Bengals.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="Outdoor",STIRR PursuitUp (720p)
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
 #EXTINF:-1 tvg-id="WaypointTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6r2YHtv.png" group-title="Outdoor",Waypoint TV (1080p)
