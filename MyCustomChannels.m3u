@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DistroTV_5 Eyewitness News KSTP Minneapolis-St. Paul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="News",5 Eyewitness News KSTP Minneapolis-St.Paul
+#EXTINF:-1 tvg-id="5 Eyewitness News KSTP Minneapolis-St. Paul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="News",5 Eyewitness News KSTP Minneapolis-St.Paul
 https://dai.google.com/linear/hls/event/zAapA22nTIejyPtg5sQ6Lg/master.m3u8
 
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis
@@ -10,7 +10,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="News",NBC 11 Minneapolis MN (KARE) (1080p)
-https://csm-e-cetubiausw2live204-03ea696efb74fde67.csm.tubi.video/csm/extlive/tubiprd01,KARE.m3u8
+https://livevideo.tegnadigital.com/kare/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KARE/elvs/live.m3u8
 
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
@@ -93,6 +93,8 @@ https://radio.garden/api/ara/content/listen/ZXiFRbYK/channel.mp3?1660849099195
 #EXTINF:01 group-title="Music",Layzer Amsterdam Dance
 https://radio.garden/api/ara/content/listen/WGcHETqh/channel.mp3?1660850633365
 #EXTINF:01 group-title="Music",Rhythm 86 Dance Radio
+#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="News",CBSN Minnesota MN (720p)
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 https://radio.garden/api/ara/content/listen/AwmyS4X6/channel.mp3?1660844645967
 #EXTINF:01 group-title="Music",Event Digital Dance Radio
 https://radio.garden/api/ara/content/listen/rOMLBLU1/channel.mp3?1660844873338
@@ -122,8 +124,6 @@ https://live.radiospinner.com/relzen-64
 https://radio.garden/api/ara/content/listen/-fOUipEx/channel.mp3?1660844403261
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Music" radio="true",Lullabies Radio
 https://stream.revma.ihrhls.com/zc7249/hls.m3u8
-#EXTINF:01 group-title="Holiday Music",The Christmas Station
-https://stream.radio.co:80/s63541ce9b/listen
 #EXTINF:-1 tvg-id="Vevo70s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Music",Pluto TV VEVO 70's (1080p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="Vevo80s.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg" group-title="Music",Vevo 80s (720p)
@@ -167,7 +167,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/
 
 #EXTINF:-1 tvg-id="RoosterTeethTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3o9cG76.png" group-title="Gaming",Rooster Teeth TV (1080p)
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://gamesfiends.com/wp-content/uploads/2012/10/IGN_logo.jpg" group-title="Gaming",IGN
-https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=&dnt=1&channelId=5eea605474085f0040ddc77c&uid=1g68m35ti-fnfd-a28-r301-7ypm2zjxiif/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/1920x1080_5055600/index.m3u8
+https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_Treehouse Gaming" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4cc385443941b411fe13c" tvg-name="Treehouse Gaming" group-title="Gaming",Treehouse Gaming
 https://ov.ottera.tv/live/master.m3u8?channel=sadsea_tn
