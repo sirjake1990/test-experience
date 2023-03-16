@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="News",CBSN Minnesota MN (720p)
+https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
+
 #EXTINF:-1 tvg-id="5 Eyewitness News KSTP Minneapolis-St. Paul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="News",5 Eyewitness News KSTP Minneapolis-St.Paul
 https://dai.google.com/linear/hls/event/zAapA22nTIejyPtg5sQ6Lg/master.m3u8
 
@@ -93,8 +96,6 @@ https://radio.garden/api/ara/content/listen/ZXiFRbYK/channel.mp3?1660849099195
 #EXTINF:01 group-title="Music",Layzer Amsterdam Dance
 https://radio.garden/api/ara/content/listen/WGcHETqh/channel.mp3?1660850633365
 #EXTINF:01 group-title="Music",Rhythm 86 Dance Radio
-#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="News",CBSN Minnesota MN (720p)
-https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 https://radio.garden/api/ara/content/listen/AwmyS4X6/channel.mp3?1660844645967
 #EXTINF:01 group-title="Music",Event Digital Dance Radio
 https://radio.garden/api/ara/content/listen/rOMLBLU1/channel.mp3?1660844873338
