@@ -46,7 +46,9 @@ https://ice24.securenetsystems.net/KXLP
 #EXTINF:01 group-title="Local Radio",94.1 KFML Little Falls Rock Radio
 https://ice23.securenetsystems.net/KFML
 #EXTINF:01 group-title="Local Radio",96.7 KDMA Montevideo Country
-https://radio.garden/api/ara/content/listen/bVQtv9ST/channel.mp3?1660855227951
+https://ice5.securenetsystems.net/media/KDMA/ondemand/KDMA-AMS.m4a
+#EXTINF:01 group-title="Local Radio",96.7 The River
+https://prod-44-201-168-205.wostreaming.net/townsquare-kzrvfmaac-hlsc3.m3u8
 #EXTINF:01 group-title="Local Radio",98.1 Minnesota's New Country
 https://live.wostreaming.net/manifest/townsquare-wwjofmaac-hlsc3.m3u8
 #EXTINF:01 group-title="Local Radio",Wild Country 99 WILD
@@ -61,6 +63,8 @@ https://n1db-e2.revma.ihrhls.com/zc1209/hls.m3u8
 https://18423.live.streamtheworld.com/KIKVFM.mp3
 #EXTINF:01 group-title="Local Radio",KTIG FM 102.7 The Word
 https://mcbi.streamguys1.com/live2?listening-from-radio-garden=1660717068
+#EXTINF:01 group-title="Local Radio",KTIG FM 104.3 The Pulse
+https://mcbi.streamguys1.com/live
 #EXTINF:01 group-title="Local Radio",105.5 Total Country
 https://live.wostreaming.net/direct/alphacorporate-krbifmaac-imc4?source=TuneIn&gdpr=0&us_privacy=1YNY
 
@@ -83,6 +87,22 @@ http://us1.internet-radio.com:8107/
 https://playerservices.streamtheworld.com/api/livestream-redirect/WFRBAMAAC.aac
 #EXTINF:01 group-title="Music",Heartland Radio
 https://ais-edge09-live365-dal02.cdnstream.com/a00584?listening-from-radio-garden=1660854998
+
+#EXTINF:01 group-title="Music",Totally Pop Radio
+https://21423.live.streamtheworld.com/T_RAD_POP_S01_SC
+#EXTINF:01 group-title="Music",Nexus Pop Radio
+https://stream1.thepuremix.net/nexuspop.mp3
+#EXTINF:01 group-title="Music",NRJ Paris Radio
+https://scdn.nrjaudio.fm/fr/30053/mp3_128.mp3?origine=radiogarden&listening-from-radio-garden=1681029267&cdn_path=adswizz_lbs9&adws_out_a1
+
+#EXTINF:01 group-title="Music",Philly Alternative
+https://radio.garden/api/ara/content/listen/GK4lrG6k/channel.mp3?r=1&1681031303045
+
+#EXTINF:01 group-title="Music",NRJ Best of 2010s
+https://scdn.nrjaudio.fm/fr/57084/mp3_128.mp3?origine=radiogarden&listening-from-radio-garden=1681031489&cdn_path=adswizz_lbs8&adws_out_b3
+
+#EXTINF:01 group-title="Music",Michael Buble Radio
+https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3?listening-from-radio-garden=1681031550
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png" group-title="Music" radio="true",80's Hair Band Rock | Dash Radio
 https://ice55.securenetsystems.net/DASH24
@@ -121,6 +141,8 @@ https://radio.garden/api/ara/content/listen/NrSMYFey/channel.mp3?1660848353670
 http://us3.internet-radio.com:8169/live
 #EXTINF:01 group-title="Music",Zen Relaxation Radio
 https://live.radiospinner.com/relzen-64
+#EXTINF:01 group-title="Music",Peaceful Currents Radio
+https://igor.torontocast.com:1955/stream
 #EXTINF:01 group-title="Music",River of Calm Radio
 https://radio.garden/api/ara/content/listen/-fOUipEx/channel.mp3?1660844403261
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Music" radio="true",Lullabies Radio
