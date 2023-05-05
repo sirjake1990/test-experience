@@ -24,6 +24,9 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 #EXTINF:-1 tvg-id="WFTXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png" group-title="News",WFTX News Fort Myers FL (720p)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 
+#EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us" tvg-logo="https://i.imgur.com/XhDBdff.png" group-title="Undefined",Beach TV Key West & Florida Keys (720p)
+https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FoxWeather.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
 
