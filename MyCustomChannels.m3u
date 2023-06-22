@@ -4,7 +4,7 @@
 https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 
 #EXTINF:-1 tvg-id="5 Eyewitness News KSTP Minneapolis-St. Paul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="News",5 Eyewitness News KSTP Minneapolis-St.Paul
-https://dai.google.com/linear/hls/event/zAapA22nTIejyPtg5sQ6Lg/master.m3u8
+https://fuel-streaming-prod01.fuelmedia.io/v1/sep/6bc87ad0-771b-4ef1-bdb9-acb51db0d39d/6S3500K720AWS/SM/content.m3u8?channelId=bd20854f-4027-4403-b2f1-5fa5ba886b42
 
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMSP.m3u8
@@ -114,7 +114,7 @@ https://radio.garden/api/ara/content/listen/GK4lrG6k/channel.mp3?r=1&16810313030
 https://scdn.nrjaudio.fm/fr/57084/mp3_128.mp3?origine=radiogarden&listening-from-radio-garden=1681031489&cdn_path=adswizz_lbs8&adws_out_b3
 
 #EXTINF:01 group-title="Music",Michael Buble Radio
-https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3?listening-from-radio-garden=1681031550
+https://croonerradio_michaelbuble.ice.infomaniak.ch/croonerradio-michaelbuble-midfi.mp3
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/TheStrip.png" group-title="Music" radio="true",80's Hair Band Rock | Dash Radio
 https://ice55.securenetsystems.net/DASH24
@@ -154,7 +154,7 @@ http://us3.internet-radio.com:8169/live
 #EXTINF:01 group-title="Music",Zen Relaxation Radio
 https://live.radiospinner.com/relzen-64
 #EXTINF:01 group-title="Music",Peaceful Currents Radio
-https://igor.torontocast.com:1955/stream
+https://cast1.torontocast.com:2865/stream
 #EXTINF:01 group-title="Music",River of Calm Radio
 https://radio.garden/api/ara/content/listen/-fOUipEx/channel.mp3?1660844403261
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Music" radio="true",Lullabies Radio
