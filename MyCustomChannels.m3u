@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="News",CBSN Minnesota MN (720p)
 https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 
-#EXTINF:-1 tvg-id="5 Eyewitness News KSTP Minneapolis-St. Paul" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="News",5 Eyewitness News KSTP Minneapolis-St.Paul
-https://fuel-streaming-prod01.fuelmedia.io/v1/sep/6bc87ad0-771b-4ef1-bdb9-acb51db0d39d/6S3500K720AWS/SM/content.m3u8?channelId=bd20854f-4027-4403-b2f1-5fa5ba886b42
+#EXTINF:-1 tvg-id="ABC News Duluth" tvg-logo="https://a.jsrdn.com/hls/22972/5-eyewitness-news-kstp-minneapolis-st-paul/logo_20210625_210605_68.png" group-title="News",ABC News Duluth
+https://dcs-live-uw1.mp.lura.live/server/play/Q7GdpowupgavsBK0/rendition.m3u8?track=video-2&anvsid=m177610523-n0ff29c90fd6b03a07de3577380f9380a&ts=1688803463&anvtrid=ed4995663198a9b633661c43c2f8b7fb
 
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMSP.m3u8
@@ -192,19 +192,22 @@ https://bobross-xumous-ingest.cinedigm.com/master.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVCMTWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Movies",Pluto TV CMT Westerns (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
+
 #EXTINF:-1 tvg-id="CineLifeHD.us" tvg-name="CineLife HD" tvg-country="US" tvg-language="English" tvg-logo="https://www.arthouseconvergence.org/wp-content/uploads/2015/12/cinelife.png" group-title="Movies",CineLife HD
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-1 tvg-id="USBB19000017U" tvg-logo="https://od.lk/s/MF8yMzUxNTAyNThf/Hallmark-More_760x760.png" group-title="Movies",Hallmark Movies & More
 https://dqvu8d0acm4xt.cloudfront.net/playlist.m3u8?l1br3&date0206&SsgEPG&SsgBaseLink&catValentines
 
 #EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RoosterTeethTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3o9cG76.png" group-title="Gaming",Rooster Teeth TV (1080p)
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Lofi Radio" tvg-country="US" tvg-language="English" tvg-logo="https://imgix.bustle.com/uploads/image/2022/7/12/abf04238-3fd0-403d-825a-ce8970bee01a-lofigirl.jpeg?w=414&h=478&fit=crop&crop=faces&auto=format%2Ccompress&q=50&blend=000000&blendAlpha=45&blendMode=normal&dpr=2" group-title="Relax",Lofi Radio
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1688821168/ei/UAmpZOTNGuir_tcPuvuTwAM/ip/3.129.111.220/id/jfKfPfyJRdk.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-vgqsrn67.googlevideo.com/playlist_duration/30/manifest_duration/30/bui/AYlvQAuN0PGLaKvzF0_B1wyztwchmThFvO_pquuttCCugipY7_Oyc1TPCwBbKcDpYKW4_lPoy1yCDet2bmA7H7BhDJ_Orlxy/spc/Ul2SqylJTDcDLDauMbN3IgTWocSfeU-jqJz0-idKhA/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/2201250/mh/rr/mip/173.225.158.90/mm/44/mn/sn-vgqsrn67/ms/lva/mv/m/mvi/4/pl/20/smhost/rr2---sn-vgqsrnlz.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350017/mt/1688799145/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAKy3lxfg3Ne9xD9ltr47AaJiQ5UF2lK2Mojei7zPZ4qeAiAhxB2q7VKpr9u5b-49KTTfQzQ7G-XnTlVazQGtGPy_3A%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl,smhost/lsig/AG3C_xAwRgIhANNbkBdOWPnwZ0d33gGbcBTo98tKCVAJ6-lkKkDt8hInAiEA17osMwN6wRLK2c1f5bp8rsn3b0XltXzgDnqLJyt47z8%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://gamesfiends.com/wp-content/uploads/2012/10/IGN_logo.jpg" group-title="Gaming",IGN
-https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="Summer Music Mix" tvg-logo="" group-title="Music",Summer Music Mix
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1688821422/ei/TgqpZOuMIZW3lu8PsIKygAM/ip/3.129.111.220/id/ygESt7HcfYU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-vgqsrn67.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/us/spc/Ul2Sqw4Fqs0SvzAlOG-PqUyXw30_9zIDq298V-oQGQ/vprv/1/playlist_type/DVR/initcwndbps/2246250/mh/K5/mip/173.225.158.90/mm/44/mn/sn-vgqsrn67/ms/lva/mv/m/mvi/4/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363391/mt/1688799392/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgJusI5LlbjEGzm7j-XaJnxGwX6wUhVHmt6kbJ7ybz89kCIFM5NtftGLf5ThGa0cJU_JYSQBFE18wYlxPEG5q2RZYy/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgI3DFkw7U1ATuJmk7Ain5OhpD-BbrDwpQRArkPcJdjxMCIQC_42FTuUbdroiP74cSvpzBlvGpRpWhkctofSg5jHiC3Q%3D%3D/playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Treehouse Gaming" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4cc385443941b411fe13c" tvg-name="Treehouse Gaming" group-title="Gaming",Treehouse Gaming
-https://ov.ottera.tv/live/master.m3u8?channel=sadsea_tn
+#EXTINF:-1 tvg-id="LTT TV" tvg-logo="https://steamuserimages-a.akamaihd.net/ugc/785238888507403580/E0A0BC896889CF3F04DE498306484B52221668AB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" tvg-name="LTT TV" group-title="Gaming",LTT TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1688820640/ei/QAepZPGfKI2l6QL5_7CIAQ/ip/3.129.111.220/id/DzLdFmPncms.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-ab5sznzd.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2SqyOqVZx08Rfqk0Idk-pXfGj4PTQWH1beU4qf8g/vprv/1/playlist_type/DVR/initcwndbps/260000/mh/io/mip/95.181.237.10/mm/44/mn/sn-ab5sznzd/ms/lva/mv/m/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362686,51000022/beids/24350017/mt/1688798665/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgWCOhQ0xNrcpOth0GYjy0nKwCoIet6sW2qivBT60aDe0CIExLstCz6-I_heBqfxTQXKzZZdFaXpNEUNgW4w9vvvi1/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgZ9_cv9WhoyXYPjt78CSk__yuQaNN_0MLdOsrhFglMqICIQDQ67o6C4XPZJo9ExjpbSRU0nGt7hYKx127IWbnZ6-E3A%3D%3D/playlist/index.m3u8
+
