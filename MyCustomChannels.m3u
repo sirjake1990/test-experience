@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="https://i.imgur.com/ubxwfMY.png" group-title="News",CBSN Minnesota MN (720p)
 https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 
-#EXTINF:-1 tvg-id="Superbowl" tvg-logo="" group-title="Football",CBS Sports HQ
-https://ttatl.best/u0EqlRCjgH9xd6s/nano.m3u8?st=AmzzE6wWKRt3A4M93w6Mbw&e=1707703738?scitytokenstarttime=1707692938&scitytokenendtime=1708297738&scitytokenhash=Z97bnRtj0TNFyaoRggjEkDuylfQre7khNGQ98uzZzdA=
+#EXTINF:-1 tvg-id="Superbowl" tvg-logo="" group-title="Football",Superbowl
+https://cdn.hitsports.bond/ch14/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTcwNzY5Mzc3MSZoYXNoX3ZhbHVlPU56STVaRGRoTURrek5XSTRaVEkyTnpBeU16QTBabVF4WVRrMVlUZ3pZalUmZXhwaXJ5PTE3MDc3MDQ1NzEmaXA9MjA2LjE5OC4yMDQuMTU2
 
 #EXTINF:-1 tvg-id="f2vtv_000" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNjMxNjU3MDBf/Fox9_540x540.png" group-title="News",KMSP FOX 9 News Minneapolis
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KMSP.m3u8
