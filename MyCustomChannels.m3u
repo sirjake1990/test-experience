@@ -9,6 +9,9 @@ https://livetv-fa.tubi.video/kmsp/index_4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="News",NBC 11 Minneapolis MN (KARE) (1080p)
 https://livevideo.tegnadigital.com/kare/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KARE/elvs/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="" group-title="News",Superbowl 2026 (1080p)
+https://s3.us-east-1.amazonaws.com/jack.ogrencibilisim/sbcsn_1080p30.m3u8
+
 #EXTINF:-1 tvg-id="BeachTVKeyWestFloridaKeys.us" tvg-logo="https://i.imgur.com/XhDBdff.png" group-title="Travel",Beach TV Key West & Florida Keys (720p)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8
 
@@ -251,3 +254,4 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 
 #EXTINF:-1 tvg-id="PlutoTVCMTWesterns.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" group-title="Movies",Pluto TV CMT Westerns (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b4e94282d4ec87bdcbb87cd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=103&terminate=false&userId=
+
